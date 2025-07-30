@@ -1,5 +1,5 @@
 # CO2 Emission Modeling
-This repository contains a Jupyter Notebook (`co2-modeling (9).ipynb`) for predicting CO2 emissions using machine learning models.
+This repository contains a Jupyter Notebook (`co2-modeling.ipynb`) for predicting CO2 emissions using machine learning models.
 
 ## Overview
 - Data: Kaggle dataset (Playground Series S3E20)
