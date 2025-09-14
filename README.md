@@ -4,7 +4,7 @@ This repository contains a machine learning project for predicting CO₂ emissio
 - Streamlit Dashboard for interactive visualization of CO₂ emissions on the map of Rwanda.
 - PDF report summarizing results and insights.
 
-##📊 Project Overview
+## 📊 Project Overview
 - Dataset: Kaggle Playground Series S3E20
 - Goal: Predict CO₂ emissions based on weekly measurements across locations in Rwanda.
 
