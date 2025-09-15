@@ -4,9 +4,6 @@
   </a>
 </p>
 
-<!-- Title -->
-<h1 align="center"><b>CS317.P21 - PHÁT TRIỂN VÀ VẬN HÀNH HỆ THỐNG MÁY HỌC</b></h1>
-
 # 🌍 CO2 Emission Modeling in Rwanda
 This repository contains a **machine learning project** for predicting CO₂ emissions in Rwanda. It includes:  
 - **Jupyter Notebook** for exploratory data analysis (EDA) and model training.  
